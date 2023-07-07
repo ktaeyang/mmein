@@ -1,0 +1,12 @@
+export {default as Menu} from './icons/menu.svg';
+export {default as Home} from './icons/home.svg';
+export {default as Mypage} from './icons/mypage.svg';
+export {default as Search} from './icons/search.svg';
+export {default as AddGreen} from './icons/add_green.svg';
+export {default as AddBlack} from './icons/add_black.svg';
+export {default as Setting} from './icons/setting.svg';
+export {default as Filter} from './icons/filter.svg';
+export {default as HeartEmpty} from './icons/heart_empty.svg';
+export {default as HeartGreen} from './icons/heart_green.svg';
+export {default as Reply} from './icons/reply.svg';
+export {default as Share} from './icons/share.svg';
